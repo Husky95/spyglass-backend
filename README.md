@@ -3,7 +3,7 @@
 ## An Online Goal Tracker Application
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Spyglass is a web application that help you create a goal and keep track of them. You can set the date for your goal and make daily deposit to it. Edit your goal to extend the deadline and upload an image to your goal to further motivate you to reach what you want. 
+Spyglass is a web application that help you create  goals and keep track of them. You can set the date for your goals and make daily deposit to it. Edit your goal to extend the deadline or upload an image to your goal to further motivate you to reach what you want. 
 ### Contributors
 
 The team working on this project:
