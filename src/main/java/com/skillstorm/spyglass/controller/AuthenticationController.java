@@ -33,9 +33,7 @@ public class AuthenticationController {
     private PasswordEncoder passwordEncoders;
     @PostMapping("/login")
     public ResponseEntity<ResponseDTO> login(@RequestBody UserDTO user) {
-    	//System.out.println("test");
-
-    	//System.out.println(user.getPassword());
+  
         manager.authenticate(
                 new UsernamePasswordAuthenticationToken(user.getUsername(), user.getPassword())
         );

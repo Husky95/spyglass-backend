@@ -24,9 +24,9 @@ Amazon:
     access-key: ${amazon.credentials.access-key}
     secret-key: ${amazon.credentials.secret-key}
   region: 
-    static: us-east-1
+    static: us-west-1
   s3:
-    imageBucket: listing-api-images
+    imageBucket: image77
   stack:
     auto : false
     
